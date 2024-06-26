@@ -1,0 +1,36 @@
+{
+  "invoice": {
+    "id": 1,
+    "date": "2024-06-27",
+    "seller": {
+      "name": "",
+      "company": "",
+      "taxID": "",
+      "address": "",
+      "phone": "",
+      "paymentMethod": "",
+      "bankAccount": ""
+    },
+    "buyer": {
+      "name": "",
+      "company": "",
+      "taxID": "",
+      "address": "",
+      "phone": "",
+      "paymentMethod": "",
+      "bankAccount": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "",
+        "quantity": 0,
+        "price": 0,
+        "total": 0
+      }
+    ],
+    "totalAmount": 0,
+    "amountInWords": "",
+    "status": "draft"
+  }
+}
